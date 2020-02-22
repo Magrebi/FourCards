@@ -25,7 +25,7 @@ body {
 }
 
 .header-text {
-    width: 50%;
+    width: 35%;
     margin-top: 20px;
     display: flex;
     flex-direction: column;
@@ -118,6 +118,7 @@ main {
 .box-text p {
     margin-top: 20px;
     line-height: 20px;
+    color: gray;
 }
 
 .box-image {
